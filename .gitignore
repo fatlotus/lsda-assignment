@@ -6,3 +6,5 @@ build/
 .Python
 *.py[co]
 .ipynb_checkpoints
+.lsda_ssh_key.pem
+install.log
